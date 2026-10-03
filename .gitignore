@@ -1,0 +1,6 @@
+iiit5k_dataset/
+IIIT5K/
+*.tar
+*.tar.gz
+__pycache__/
+.pytest_cache/
